@@ -1,0 +1,7 @@
+bash-utilities
+
+This is a collection of bash scripts that I have found useful and 
+collected into one spot for my reference.
+
+Contents:
+lowercase.sh	- Converts all the files in the current directory to lowercase
