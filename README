@@ -5,3 +5,5 @@ collected into one spot for my reference.
 
 Contents:
 lowercase.sh	- Converts all the files in the current directory to lowercase
+seq.sh          - "Clone" of *nix seq for use on OS X
+tree.sh         - Partial "clone" of *nix tree for use on OS X
